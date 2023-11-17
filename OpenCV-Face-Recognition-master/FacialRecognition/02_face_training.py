@@ -23,7 +23,7 @@ def getImagesAndLabels(path):
 
         id = int(os.path.split(imagePath)[1].split(".")[1])
 
-        if img_numpy.size > 0:  # Check if image is not empty
+        if img_numpy.size > 0:  # Check if img_numpy is not empty
             faces = detector.detectMultiScale(img_numpy)
 
             for x, y, w, h in faces:
@@ -42,5 +42,5 @@ recognizer.write(
     r"OpenCV-Face-Recognition-master\\FacialRecognition\\trainer\\trainer.yml"
 )
 
-# Print the number of faces trained and end program
+# Print the numer of faces trained and end program
 print("\n [INFO] {0} faces trained. Exiting Program".format(len(np.unique(ids))))

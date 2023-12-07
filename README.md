@@ -12,7 +12,7 @@ This project was created as a part of the final exam for the university course b
 
 - **翁海平 (Kai Wijaya)**
  
- ![reenactment](README-File/reenactment.gif)
+ ![reenactment](README-File/reenactment.jpg)
 ## Table of Contents
 
 - [Features](#features)

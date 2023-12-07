@@ -74,7 +74,9 @@ This project was created as a part of the final exam for the university course b
 3. Run the application:
 
    ```bash
-   python main.py
+   python 01_face_dataset.py
+   python 02_face_training.py
+   python 03_face_recognition.py
    ```
 
 ## Configuration
@@ -174,7 +176,9 @@ Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUT
 3. 運行應用程序：
 
    ```bash
-   python main.py
+   python 01_face_dataset.py
+   python 02_face_training.py
+   python 03_face_recognition.py
    ```
 
 ## 設定

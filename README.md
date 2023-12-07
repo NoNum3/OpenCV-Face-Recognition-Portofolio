@@ -3,13 +3,16 @@
 # Real-time Face Recognition System
 
 This project was created as a part of the final exam for the university course by:
- ![TEAM](Team.png)
+
+
+ ![TEAM](README-File/Team.png)
+
  
 - **陳英全 (Kenny Stevens)**
 
 - **翁海平 (Kai Wijaya)**
  
- ![reenactment](reenactment.gif)
+ ![reenactment](README-File/reenactment.gif)
 ## Table of Contents
 
 - [Features](#features)

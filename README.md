@@ -1,4 +1,4 @@
-[English](#english-version) | [中文](#chinese-version)
+[English](#english-version) | [中文](#中文)
 
 # Real-time Face Recognition System
 
@@ -95,7 +95,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
 
-### [中文](#chinese-version)
+### [中文](#中文)
 
 # 實時人臉辨識系統
 

@@ -106,11 +106,12 @@ Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUT
 
 本專案是大學期末考試的一部分，由以下成員製作：
 
-- **陳英全 (Kenny Stevens)**
-  ![Kenny Stevens](url_to_kenny_stevens_picture)
 
+![TEAM](README-File/Team.png)
+
+
+- **陳英全 (Kenny Stevens)**
 - **翁海平 (Kai Wijaya)**
-  ![Kai Wijaya](url_to_kai_wijaya_picture)
 
 ## 目錄
 
